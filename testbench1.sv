@@ -25,7 +25,7 @@ class baz;
 endclass
 
 module testbench
-    //****PARAMETERS****//
+    //***PARAMETERS****//
     //PC
 	var logic [31:0] out_address;
 	var logic [31:0] in_address;
